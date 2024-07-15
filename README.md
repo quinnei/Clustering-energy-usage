@@ -31,7 +31,7 @@ energy usage patterns <br>
 <br> :notebook_with_decorative_cover::pencil2: For a detailed review, please refer to the [Summary Report](https://github.com/quinnei/Clustering-energy-usage/blob/main/4_Report/%5BREPORT%5D%20A%20breakdown%20of%20US%20energy%20consumers%20-%20From%20the%20gluttonous%20to%20the%20overladen.pdf)
 
 <br> :small_orange_diamond: American households consist of four types: <br>
-1) the **_polluting elite_** <br> :point_right: a major source of wasteful energy consumption, living in outsized homes given the small number of occupants 
+1) the **_polluting elite_** <br> :point_right: a major source of wasteful energy consumption, living in outsized homes despite small number of occupants 
 2) the **_thrifty_** but **_energy-inefficient_** <br> :point_right: bear the hidden costs of energy-inefficiency, despite efforts to cut corners
 3) the **_overburdened_** <br> :point_right: tend to spend large amounts on energy, due to draft and large number of occupants (that live in crowded housing)
 5) the **_modest consumer_**
